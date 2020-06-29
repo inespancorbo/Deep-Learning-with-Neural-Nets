@@ -1,4 +1,4 @@
-# Feed Forward Neural Net
+# Simple Feed Forward Neural Network
 
 Using a feed forward neural net to determine F0 & voicing, as well as phone recognition 🗣️.
 
