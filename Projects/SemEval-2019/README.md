@@ -18,4 +18,5 @@ Approached the task using two neural network models:
 If interested in seeing the code employed, uploaded are two easy to read Jupyter notebooks:
 
 (1) [See GRU jupyter notebook](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/blob/master/Projects/SemEval-2019/RNN_notebook.ipynb)
+
 (2) [See BERT jupyter notebook](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/blob/master/Projects/SemEval-2019/BERT_notebook.ipynb)
