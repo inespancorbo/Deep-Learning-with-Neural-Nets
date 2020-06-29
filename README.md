@@ -1,4 +1,4 @@
-# Topics in [Lectures](), [Notes](), [HW](), and [Projects](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/tree/master/Projects) include:
+# Topics in [Lectures](), [Notes](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/tree/master/Notes), [HW](), and [Projects](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/tree/master/Projects) include:
 
 - Basic Structure of Neural Nets, PyTorch
 - MSE - feed forward, non-linear functions, loss functions
