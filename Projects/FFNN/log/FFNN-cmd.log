@@ -1,0 +1,8 @@
+
+starting run: 2020-02-02 2020-02-02 22:30:29.349792
+time to read files, get spec, #files = 0.0 0.0 2
+elapsed time for pitch tracking and phone recognition = 0.31, 2 files with 1178 frames --> x real time = 19.084444
+
+starting run: 2020-02-02 2020-02-02 22:35:41.415469
+time to read files, get spec, #files = 0.0 0.0 2
+elapsed time for pitch tracking and phone recognition = 0.31, 2 files with 1178 frames --> x real time = 19.200017
