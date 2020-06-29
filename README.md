@@ -8,7 +8,7 @@
 - Pitch tracker – gender id
 - MNIST – image, conv2d
 - ImageNet – transfer learning
-- Debugging & efficiency tips for neural nets – “37 reasons”
+- Debugging & efficiency tips for neural nets – "37 reasons"
 - Character LM – introduction to RNN – LSTM vs GRU
 - Character LM – conditioning
 - Word LM – introduction
