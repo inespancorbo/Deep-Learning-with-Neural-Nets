@@ -24,7 +24,7 @@
 - Intro to Reinforcement Learning
 - Intro to Deep Reinforcement Learning
 
-# Good Texts:
+# Good Reading Material:
 
 - Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. 
 - Chris Bishop's Pattern Recognition and Machine Learning
