@@ -13,7 +13,7 @@ Approached the task using two neural network models:
 
 (2) BERT
 
-[See working paper with model results](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/blob/master/Projects/SemEval-2019/SemEval-2019-Paper.pdf)
+[See working paper with model results](https://github.com/inespancorbo/Deep-Learning-with-Neural-Nets/blob/master/Projects/SemEval-2019/Write%20Up%20.pdf)
 
 If interested in seeing the code employed, uploaded are two easy to read Jupyter notebooks:
 
