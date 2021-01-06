@@ -242,7 +242,8 @@ def log_message(outf, message):
         outf.flush()
 
 ###############################################################################
-# NOTE: you should store the legal characters in a file, and read the file
+# NOTE: will update this to store legal characters in a file, and read the file
+# so to use this for other languages
 ###############################################################################
 legal_chars = ['§', '\t', '\n', ' ', '!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', ';', '<', '=', '>', '?', '@', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '[', '\\', ']', '^', '_', '`', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '{', '|', '}', '~', '®', '°']
 convert_chars = [['‑', '-'], ['–', '-'], ['—', '-'], ['‘', "'"], ['’', "'"], ['‚', ','], ['“', '"'], ['”', '"']]
@@ -293,10 +294,7 @@ def add_illegal_chars(data):
     print("%8.1f = time to create char dict (%d, %d, %d)" % (time.time() - start, len(CharSet), len(CharDict), len(CharList)))
 
 ###############################################################################
-# NOTE: this code is slow -- if you know of a faster way to do this in python, please let me know
-#
-# you will want to use a small subset of text while developing & debugging
-# you might want to convert all the text and then store the converted values
+# NOTE: this code is slow, need to change this at some point
 ###############################################################################
 def convert_data(data, CharDict, quit_early=0):
     start = time.time()
