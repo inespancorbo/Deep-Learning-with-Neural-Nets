@@ -258,7 +258,6 @@ class Char:
 
 ###############################################################################
 def create_char_dict():
-    # you should read these chars from a file
     for c in legal_chars:
         if not c in CharDict:
             char = Char(c)
