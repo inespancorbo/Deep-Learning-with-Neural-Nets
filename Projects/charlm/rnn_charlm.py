@@ -181,7 +181,7 @@ def train_rnn_model(model, data_train, data_dev=None):
         model = model.cuda()
 
     # define the loss functions
-    criterion = nn.CrossEntropyLoss(reduction='sum')
+    criterion = nn.CrossEntropyLoss()
 
     # choose an optimizer
     optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate, weight_decay=L2_lambda)
